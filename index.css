@@ -14,8 +14,8 @@ a{
     margin:1vw;
 }
 logo{
-  background-color: black;
-  opacity: 0.8;
+  background-color: white;
+  opacity: 1;
   width:100%;
   z-index: 1;
   align-items: center;
